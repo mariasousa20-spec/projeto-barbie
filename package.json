@@ -1,0 +1,12 @@
+{
+  "name": "projeto-web1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Projeto de Web I: HTML, CSS e JavaScript puro",
+  "scripts": {
+    "api": "json-server --watch api/db.json --port 3001"
+  },
+  "devDependencies": {
+    "json-server": "0.17.4"
+  }
+}

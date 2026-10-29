@@ -1,0 +1,14 @@
+{
+  "itens": [
+    {
+      "id": 1,
+      "nome": "Exemplo 1",
+      "descricao": "Substitua estes dados pelos do tema do grupo."
+    },
+    {
+      "id": 2,
+      "nome": "Exemplo 2",
+      "descricao": "Cada chave do objeto principal vira uma rota: /itens"
+    }
+  ]
+}
